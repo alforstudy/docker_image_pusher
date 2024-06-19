@@ -1,1 +1,1 @@
-nginx
+openresty:1.21.4.3-2-2-focal
